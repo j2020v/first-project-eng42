@@ -27,3 +27,5 @@
 </p>
 
 ## .gitignore
+
+<p>A gitignore file specifies intentionally untracked files that Git should ignore.</p>
