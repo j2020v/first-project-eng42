@@ -16,13 +16,7 @@ Git commands:
 * <p><b>~</b> - home </p>
 * <p><b>rm -rf</b> - deletes directory </p>
 * <p><b>touch</b> - creates something </p>
-* <p><b>pwd</b> - tells you where you are </p>
-* <p><b>ls</b> - lists your files and folders </p>
-* <p><b>cd</b> - change directory </p>
-* <p><b>mkdir</b> - make directory </p>
-* <p><b>~</b> - home </p>
-* <p><b>rm -rf</b> - deletes directory </p>
-* <p><b>touch</b> - creates something </p>
+
 
 Github commands:
 * <p><b>git status</b> - runs the programme </p>
