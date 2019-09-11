@@ -6,22 +6,21 @@
 
 ## Main Git + Github commands
 
-<b>pwd</b> - tells you where you are
-<b>ls</b> - lists your files and folders
-<b>cd</b> - change directory
-<b>mkdir</b> - make directory
-<b>~</b> - home
-<b>rm -rf</b> - deletes directory
-<b>touch</b> - creates something
+<p><b>pwd</b></p> - tells you where you are
+<p><b>ls</b></p> - lists your files and folders
+<p><b>cd</b></p> - change directory
+<p><b>mkdir</b></p> - make directory
+<p><b>~</b></p> - home
+<p><b>rm -rf</b></p> - deletes directory
+<p><b>touch</b></p> - creates something
 
 <p>
 
-<b>git init</b> - creates a master
-<b>git status</b> - runs the programme
-<b>git add .</b> - adds everything
-<b>git commit -m 'clear message'</b> - saving a version
-<b>git push -u</b> - pushes work online
-<b>git remote --v</b> - verbose
+<p><b>git status</b></p> - runs the programme
+<p><b>git add .</b></p> - adds everything
+<p><b>git commit -m 'clear message'</b></p> - saving a version
+<p><b>git push -u</b></p>- pushes work online
+<p><b>git remote --v</b></p> - verbose
 
 </p>
 
