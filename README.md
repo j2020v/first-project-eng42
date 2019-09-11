@@ -2,7 +2,9 @@
 
 ## Git VS Github
 
-<p><b>Git</b> is a revision control system while <b>Github</b> is a dropbox for your code where can publish on the platform and collaborate with other developers.</p>
+<p><b>Git</b> is a revision control system </p>
+
+<p><b>Github</b> is a dropbox for your code where can publish on the platform and collaborate with other developers.</p>
 
 ## Main Git + Github commands
 
