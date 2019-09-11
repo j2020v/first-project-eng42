@@ -28,4 +28,4 @@
 
 ## .gitignore
 
-<p>A gitignore file specifies intentionally untracked files that Git should ignore.</p>
+<p>A <b>gitignore</b> file specifies intentionally untracked files that Git should ignore.</p>
