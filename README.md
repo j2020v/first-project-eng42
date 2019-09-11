@@ -24,14 +24,13 @@ Git commands:
 * <p><b>rm -rf</b> - deletes directory </p>
 * <p><b>touch</b> - creates something </p>
 
-<p>
 Github commands:
 * <p><b>git status</b> - runs the programme </p>
 * <p><b>git add .</b> - adds everything </p>
 * <p><b>git commit -m 'clear message'</b> - saving a version </p>
 * <p><b>git push -u</b> - pushes work online </p>
 * <p><b>git remote --v</b> - verbose </p>
-</p>
+
 
 ## .gitignore
 
